@@ -104,7 +104,7 @@ My main conclusion is that calling a system efficient or accurate is not a compl
 
 ## AI use declaration
 
-ChatGPT assisted with researching possible sources, organising the portfolio and producing early drafts of the analysis and reflections. I also used it to edit the language and improve clarity. The source screenshots were supplied separately. I understand that I need to check the research and make sure the reflections accurately represent my own views before submission.
+ChatGPT assisted with researching possible sources, organising the portfolio and producing early drafts of the analysis and reflections.I understand that I need to check the research and make sure the reflections accurately represent my own views before submission.
 
 ## References
 
