@@ -6,11 +6,11 @@
 
 ## Introduction
 
-Automated decision-making (ADM) means using computer systems to make, or help people make, decisions using data, rules or algorithms. ADM is not automatically artificial intelligence (AI): software can apply fixed eligibility rules without learning from data. Governments use ADM to process large numbers of decisions quickly and consistently. However, people cannot always choose not to use these systems, and in areas such as welfare, immigration and public services a wrong decision can affect someone's money, opportunities and wellbeing. That creates a responsibility to test whether decisions are lawful, accurate, understandable and reviewable.
+Automated decision-making (ADM) is when a computer system makes a decision or helps someone make one using data and set rules. It does not always involve artificial intelligence (AI); even a simple program checking eligibility against fixed criteria is a form of automation. I can understand why governments use these systems. They have thousands of applications to process, and computers can save time. But if the information or rules are wrong, the result might affect someone's payments, visa or access to a service. That is why accuracy alone is not enough: people also need to understand decisions and be able to question them.
 
-As a future ICT professional I may build, test or approve systems like these. The ACS Code of Professional Conduct puts the public interest first (Australian Computer Society 2014), and the ethical theories from Week 4, including Kantianism, utilitarianism and social contract theory (Quinn 2020), give me ways to judge whether a system treats people fairly.
+This matters to me as an ICT student because I could one day help develop or test software used for these decisions. The ACS Code of Professional Conduct says the public interest comes first (Australian Computer Society 2014). The ethical theories from Week 4 also help me look at the issue from different angles instead of simply asking whether the software works (Quinn 2020).
 
-Before this unit, I assumed that decisions made by computers were generally more objective and fair than decisions made by people. Through the six artefacts below, which cover Australia and the Netherlands, I learned that automation moves human choices into the design of rules and data, and that fairness depends on testing, explanation and a real way to appeal. A question runs through the portfolio: does faster processing count as progress if an affected person cannot understand or correct an error?
+The starting view described in my portfolio is that computer-made decisions seem more objective than human decisions. Looking at Australia and the Netherlands has made me question that idea. People still choose the data, design the rules and decide when to trust the result. What stands out to me now is the need for testing, clear explanations and a proper appeal process. A faster decision is not necessarily a better one if the person affected cannot get an error fixed.
 
 ## Artefact 1 – Independent oversight of government ADM
 
@@ -21,9 +21,9 @@ Before this unit, I assumed that decisions made by computers were generally more
 
 *Figure 1: Cover page of the Commonwealth Ombudsman submission on automated decision-making by government (Commonwealth Ombudsman 2025).*
 
-The Commonwealth Ombudsman (2025) responded in January 2025 to the Attorney-General's Department consultation on government use of automated decision-making. The submission discusses how the pursuit of efficiency in statutory decisions must be balanced by genuine human review, oversight and transparency, so affected people can understand and question outcomes.
+In January 2025, the Commonwealth Ombudsman responded to a government consultation about automated decisions. The main point I took from this submission is that saving time should not come at the cost of fair decisions. Even when a computer is involved, there still needs to be proper oversight and a way for someone to ask how a decision was reached (Commonwealth Ombudsman 2025).
 
-Before this unit I assumed a computer-made decision was more objective than a human one. I chose this submission because it comes from an independent oversight body, not a department promoting its own systems. It links to social contract theory: citizens accept government authority when decisions are fair and open to challenge (Quinn 2020). It also reflects the ACS value of the public interest (Australian Computer Society 2014). It changed my view because an official who simply accepts a computer's output is not really making a decision.
+I chose this source because it comes from an independent watchdog rather than an agency describing its own technology. It made me think about social contract theory, where the public should be able to expect fair treatment from government (Quinn 2020). It also relates to the ACS responsibility to put the public first (Australian Computer Society 2014). To me, a public servant should not simply accept a computer's answer without being able to explain or review it.
 
 ## Artefact 2 – Australia's updated responsible AI policy
 
@@ -34,9 +34,9 @@ Before this unit I assumed a computer-made decision was more objective than a hu
 
 *Figure 2: Screenshot of the Digital Transformation Agency article “AI Policy Update: Strengthening responsible use across government” (Digital Transformation Agency 2026).*
 
-The Digital Transformation Agency (2026) explains the updated Policy for the responsible use of AI in government, which took effect in December 2025. It requires accountable officials, registers of AI use cases, incident processes and assessments covering fairness, safety, privacy and transparency, with requirements phased in during 2026.
+The Digital Transformation Agency's 2026 article explains changes to Australia's government AI policy, which started in December 2025. The policy sets out measures such as accountable officials, records of where AI is used and checks for issues involving privacy, fairness and safety. Some requirements are being introduced gradually during 2026 rather than all at once (Digital Transformation Agency 2026).
 
-I chose it because it shows Australia's response after Robodebt, where debts were raised through automated income averaging and many people were harmed (Royal Commission into the Robodebt Scheme 2023). From a utilitarian view, faster services matter only if harms are assessed instead of assumed away (Quinn 2020). However, a named official cannot guarantee fair outcomes, so I would want independent testing for group differences before launch.
+I included this because it shows how government is trying to put responsibility around AI use. Robodebt is a reminder of what can happen when automated processes lead to harmful outcomes (Royal Commission into the Robodebt Scheme 2023). Utilitarianism made me consider both sides: faster services could help many people, but unfair decisions could hurt them too (Quinn 2020). I would want fairness testing as well as someone officially responsible for the system.
 
 ## Artefact 3 – Algorithm oversight in the Netherlands
 
@@ -47,9 +47,9 @@ I chose it because it shows Australia's response after Robodebt, where debts wer
 
 *Figure 3: Cover of the report *AI & Algorithms Netherlands: Fifth edition* (Autoriteit Persoonsgegevens 2025).*
 
-The Dutch Data Protection Authority (Autoriteit Persoonsgegevens 2025) published the fifth edition of its AI and algorithms report in July 2025. It examines the opportunities and risks of algorithms, including fundamental rights, algorithm registration and oversight, and notes doubts about some AI uses such as emotion recognition.
+The Dutch Data Protection Authority published its fifth report on AI and algorithms in July 2025. It looks at where algorithms may be useful but also raises concerns about fundamental rights, oversight and applications such as emotion recognition. I found it useful that the report treats these as social and legal questions, not just technical questions (Autoriteit Persoonsgegevens 2025).
 
-I included it to look beyond Australia. The Dutch childcare benefits scandal, where a risk-profiling system used nationality as a risk factor (Amnesty International 2021), is a separate earlier event, but it explains why this regulator watches algorithms closely. Kantianism applies because people should not be reduced to risk scores (Quinn 2020). If a system labelled me high risk, I would expect reasons, a way to correct errors and a human review.
+I wanted to compare Australia's approach with another country. The earlier Dutch childcare benefits scandal shows how damaging unfair risk profiling can be (Amnesty International 2021). That case is different from this 2025 report, but it helps explain why strong oversight matters. Kantianism is relevant because a person should not be treated as just a risk score (Quinn 2020). I would expect an explanation and a chance to correct mistakes if a government system classified me unfairly.
 
 ## Artefact 4 – Impact assessment before deployment
 
@@ -60,9 +60,9 @@ I included it to look beyond Australia. The Dutch childcare benefits scandal, wh
 
 *Figure 4: Screenshot of the Digital Transformation Agency media release announcing a new AI impact assessment tool and procurement guidance (Digital Transformation Agency 2025a).*
 
-On 2 December 2025 the Digital Transformation Agency (2025a) announced an updated AI policy, a new AI impact assessment tool and guidance on AI procurement. The tool helps teams identify and manage impacts and risks against Australia's AI Ethics Principles, and is intended to complement, not replace, existing frameworks and laws.
+In December 2025, the Digital Transformation Agency announced a new AI impact assessment tool alongside policy and procurement guidance. The idea is to make teams think through possible risks before introducing AI. The tool supports existing legal and risk-management requirements; it does not replace them (Digital Transformation Agency 2025a).
 
-I chose this because it connects ethics to real ICT work before launch. If I found unresolved fairness concerns on a project, I would document them, ask for more testing and escalate, because the ACS value of competence means working diligently, not only meeting a specification (Australian Computer Society 2014). That could delay delivery, but a system can meet its technical requirements and still apply an unfair rule, so I would not treat possible harm as a technical detail.
+This artefact feels especially relevant to ICT work because it is about decisions made before a system goes live. If testing showed possible unfairness, I would record the problem and ask for it to be investigated rather than ignore it to meet a deadline. The ACS Code's focus on competence supports taking that responsibility seriously (Australian Computer Society 2014). Software can follow every instruction correctly while the instructions themselves are unfair.
 
 ## Artefact 5 – Transparency in a real Australian department
 
@@ -73,9 +73,9 @@ I chose this because it connects ethics to real ICT work before launch. If I fou
 
 *Figure 5: Screenshot of the Department of Home Affairs AI Transparency Statement webpage (Department of Home Affairs 2026).*
 
-The Department of Home Affairs (2026) updated its AI transparency statement in March 2026, after first publishing one in February 2025. The statement explains how the department uses AI in line with whole-of-government policy, with oversight from an Accountable Official, and outlines its approach to managing risk and strengthening governance, transparency and accountability.
+The Department of Home Affairs first published an AI transparency statement in February 2025 and updated it in March 2026. It explains the department's approach to using AI responsibly, including oversight by an accountable official and processes for managing risks (Department of Home Affairs 2026).
 
-I chose it because it shows what transparency looks like in a department whose decisions affect people's lives. A statement is useful evidence of a commitment, but it does not tell a person what information was used in their own case. The ACS value of honesty means being open about how systems work (Australian Computer Society 2014). I would also want a clear explanation and a practical route to seek review of an automated outcome.
+I chose this statement because departments such as Home Affairs make decisions that can seriously affect individuals. A public statement is helpful, but I do not think it is enough on its own. Someone affected by a decision may still need to know what information was used and whether it was correct. That connects with honesty in the ACS Code (Australian Computer Society 2014). A clear review process would matter more to me than a general promise of transparency.
 
 ## Artefact 6 – Testing governance in practice
 
@@ -86,9 +86,9 @@ I chose it because it shows what transparency looks like in a department whose d
 
 *Figure 6: Screenshot of the Digital Transformation Agency update “Pilot findings strengthen DTA’s responsible AI toolkit” (Digital Transformation Agency 2025b).*
 
-The Digital Transformation Agency (2025b) reported on a pilot held from September to November 2024, in which 21 agencies tested a draft impact assessment tool, then called the AI assurance framework. The findings will shape the updated tool, and the pilot found the draft gave a strong foundation for assessing the risks of AI use cases.
+This November 2025 DTA article reports on a trial of a draft AI assurance framework. During late 2024, 21 government agencies tested a process for identifying risks in AI projects. The findings were used to help improve the assessment tool (Digital Transformation Agency 2025b).
 
-I chose it because it shows governance being tested in practice, not just written down. As a future ICT professional, I would check data quality and compare outcomes across groups in similar circumstances before release. This connects to Kantian respect for people and utilitarian attention to harm (Quinn 2020). The healthcare AI scenario in Assessment 3 highlights the risk: a system can meet its specification while an unfair pattern remains unresolved. Testing is therefore an ethical duty.
+I included this example because it shows the difference between having an ethical policy and trying it out in real projects. If I were testing a government system, I would want to check the data and see whether people in similar situations receive consistent results. That links to Kantian respect for individuals and utilitarian concern about harm (Quinn 2020). It also reminds me of the healthcare AI assessment scenario: meeting a technical specification does not automatically make a decision fair.
 
 ## Connecting the artefacts: Australia and the Netherlands
 
@@ -104,7 +104,7 @@ My main conclusion is that calling a system efficient or accurate is not a compl
 
 ## AI use declaration
 
-I used AI tools  for planning and research: finding possible artefacts, organising the structure, early ideas and checking facts. I captured the screenshots of the source artefacts myself, checked the sources and links, and edited the reflections so they state my own views.
+ChatGPT assisted with researching possible sources, organising the portfolio and producing early drafts of the analysis and reflections. I also used it to edit the language and improve clarity. The source screenshots were supplied separately. I understand that I need to check the research and make sure the reflections accurately represent my own views before submission.
 
 ## References
 
