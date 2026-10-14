@@ -104,7 +104,7 @@ My main conclusion is that calling a system efficient or accurate is not a compl
 
 ## AI use declaration
 
-I used AI tools (ChatGPT and Claude) for planning and research: finding possible artefacts, organising the structure, early ideas and checking facts. I captured the screenshots of the source artefacts myself, checked the sources and links, and edited the reflections so they state my own views.
+I used AI tools  for planning and research: finding possible artefacts, organising the structure, early ideas and checking facts. I captured the screenshots of the source artefacts myself, checked the sources and links, and edited the reflections so they state my own views.
 
 ## References
 
